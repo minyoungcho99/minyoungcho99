@@ -23,9 +23,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me! </h2> <br> 
     <div align= "center"> <a href=mailto:minyoungcho99@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minyoungcho99@gmail.com"> </a>
           </div>  <br> 
-   <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> <br> 
-    <img src="https://github-readme-stats.vercel.app/api?username=minyoungcho99&bg_color=180,b6e2cd,00000000&title_color=000000&text_color=000000"
-         />
    </div>
 
