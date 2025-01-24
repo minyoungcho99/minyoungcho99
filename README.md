@@ -26,11 +26,11 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stats</h2>
-<div align="center">
-    <a href="https://solved.ac/m1nyoung" style="display: inline-block; width: 100px; text-align: center;">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=m1nyoung" alt="Solved.ac 프로필" style="width: 100%; max-width: 100px;">
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=minyoungcho99&bg_color=180,b6e2cd,00000000&title_color=000000&text_color=000000"
-         style="width: 100%; max-width: 100px;">
-</div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center"> 
+     <a href="https://solved.ac/m1nyoung">
+   <img src="http://mazassumnida.wtf/api/generate_badge?boj=m1nyoung" alt="Solved.ac 프로필">
+</a>
+     <img src="https://github-readme-stats.vercel.app/api?username=minyoungcho99&bg_color=180,b6e2cd,00000000&title_color=000000&text_color=000000"
+         />
+    </div>
+    
