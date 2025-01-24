@@ -30,7 +30,7 @@
      <a href="https://solved.ac/m1nyoung">
    <img src="http://mazassumnida.wtf/api/generate_badge?boj=m1nyoung" alt="Solved.ac 프로필">
 </a>
-     <img src="https://github-readme-stats.vercel.app/api?username=minyoungcho99&bg_color=180,b6e2cd,00000000&title_color=000000&text_color=000000"
+    <img src="https://github-readme-stats.vercel.app/api?username=minyoungcho99&bg_color=180,b6e2cd,00000000&title_color=000000&text_color=000000"
          />
     </div>
     
